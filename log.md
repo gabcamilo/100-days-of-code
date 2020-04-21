@@ -14,4 +14,10 @@
 
 **Today's Progress**: Implemented the [whack a mole](https://gabcamilo.github.io/whack-a-mole/) game, also with JavaScript and coding along with [this tutorial](https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/) by [Ania Kubow](https://github.com/kubowania) on [freeCodeCamp](https://www.freecodecamp.org).
 
-**Thoughts:** It was fun, but I gess I have to leave my confort zone.
+**Thoughts:** It was fun, but I guess I have to leave my confort zone.
+
+## Day 2: April 20, 2020
+
+**Today's Progress**: Implemented storing user information at a database on Firebase for a little e-commerce [project](https://github.com/gabcamilo/crwn-clothing) I'm doing to learn React.
+
+**Thoughts:** Firebase is an excellent resource that I wasn't really aware of. Glad I'm learning something new.
