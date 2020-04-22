@@ -21,3 +21,10 @@
 **Today's Progress**: Implemented storing user information at a database on Firebase for a little e-commerce [project](https://github.com/gabcamilo/crwn-clothing) I'm doing to learn React.
 
 **Thoughts:** Firebase is an excellent resource that I wasn't really aware of. Glad I'm learning something new.
+
+## Day 3: April 21, 2020
+
+**Today's Progress**: At the [e-commerce project](https://github.com/gabcamilo/crwn-clothing), finished user sign up adding SignUp component to allow users to register with email and password.
+I also started to take a look at a multiplayer game tutorial, guess I can actually work on it tomorrow.
+
+**Thoughts:**: Not many thoughts today, I'm still learning how to deal with the Firebase integration.
