@@ -28,3 +28,9 @@
 I also started to take a look at a multiplayer game tutorial, guess I can actually work on it tomorrow.
 
 **Thoughts:**: Not many thoughts today, I'm still learning how to deal with the Firebase integration.
+
+## Day 4: April 22, 2020
+
+**Today's Progress**: Worked on a little multiplayer game from [this tutorial](https://www.youtube.com/watch?v=RJvktZnZn6A&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=6) (PT-br).
+
+**Thoughts:**: Every day I realize I really need to work on my CSS skills. Also, canvas is awesome!
