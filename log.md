@@ -34,3 +34,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Worked on a little multiplayer game from [this tutorial](https://www.youtube.com/watch?v=RJvktZnZn6A&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=6) (PT-br).
 
 **Thoughts:**: Every day I realize I really need to work on my CSS skills. Also, canvas is awesome!
+
+## Day 5: April 23, 2020
+
+**Today's Progress**: Worked again on the multiplayer game from [this tutorial](https://www.youtube.com/watch?v=RJvktZnZn6A&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=6) (PT-br). Implemented *observers* pattern.
+
+**Thoughts:**: Learned a lot about different architectures than the ones I'm used to. Awesome day!
