@@ -40,3 +40,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Worked again on the multiplayer game from [this tutorial](https://www.youtube.com/watch?v=RJvktZnZn6A&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=6) (PT-br). Implemented *observers* pattern.
 
 **Thoughts:**: Learned a lot about different architectures than the ones I'm used to. Awesome day!
+
+## Day 6: April 24, 2020
+
+**Today's Progress**: Today, I couldn't spend as much time as I'd like coding but worked on the multiplayer game.
+
+**Thoughts:**:  I'm very excited to finish it. Already learned a lot.
