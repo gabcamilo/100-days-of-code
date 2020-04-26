@@ -46,3 +46,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Today, I couldn't spend as much time as I'd like coding but worked on the multiplayer game.
 
 **Thoughts:**:  I'm very excited to finish it. Already learned a lot.
+
+## Day 7: April 25, 2020
+
+**Today's Progress**: Created modules from the functions previously implemented on the multiplayer game. Also, learned a little about the history of modules.
+
+**Thoughts:**:  I had never used modules in front-end without any framework. It was an interesting approach and now I'm more aware of the perks of using it.
