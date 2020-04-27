@@ -52,3 +52,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Created modules from the functions previously implemented on the multiplayer game. Also, learned a little about the history of modules.
 
 **Thoughts:**:  I had never used modules in front-end without any framework. It was an interesting approach and now I'm more aware of the perks of using it.
+
+## Day 8: April 26, 2020
+
+**Today's Progress**: Added socket.io to handle a player's connection, disconnection, and moving at the multiplayer game.
+
+**Thoughts:**:  Get socket.io to work in a more complex way was awesome! I'm very excited to learn more, and for sure I'll have to revisit some parts of the code to understand better some aspects of it.
