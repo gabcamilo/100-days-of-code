@@ -58,3 +58,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Added socket.io to handle a player's connection, disconnection, and moving at the multiplayer game.
 
 **Thoughts:**:  Get socket.io to work in a more complex way was awesome! I'm very excited to learn more, and for sure I'll have to revisit some parts of the code to understand better some aspects of it.
+
+## Day 9: April 27, 2020
+
+**Today's Progress**: Finished the SignIn component of the [e-commerce project](https://github.com/gabcamilo/crwn-clothing), also started the studies of Redux.
+
+**Thoughts:**:  Very excited to finally learn Redux!
