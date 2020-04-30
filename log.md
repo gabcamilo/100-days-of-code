@@ -64,3 +64,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Finished the SignIn component of the [e-commerce project](https://github.com/gabcamilo/crwn-clothing), also started the studies of Redux.
 
 **Thoughts:**:  Very excited to finally learn Redux!
+
+## Day 10: April 28, 2020
+
+**Today's Progress**: Studied a bit of Redux.
+
+**Thoughts:**: It really makes sense!
