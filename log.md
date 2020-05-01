@@ -76,3 +76,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Created reducers on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing).
 
 **Thoughts:**: Seems ok until now.
+
+## Day 12: April 30, 2020
+
+**Today's Progress**: Finished user state management with Redux and learned how to use a logger middleware on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing).
+
+**Thoughts:**: It's a bit complicated but tomorrow I'll review the flux more calmly.
