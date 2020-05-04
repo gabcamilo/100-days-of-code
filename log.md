@@ -88,3 +88,9 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 **Today's Progress**: Worked on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing). I made a wiki to review some concepts that weren't clear or I think I should remember.
 
 **Thoughts:**: Sometimes It's harder to make the docs than the thing itself, but I guess It's because you are forced to no exactly what you are doing and why, so it must be a good thing. But in this case, maybe repetition is better. I'll see the most helpful approach.
+
+## Day 14: May 02, 2020
+
+**Today's Progress**: Worked on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing). Crated the CartDropdown component and added 'hide CartDropdown' functionality.
+
+**Thoughts:**: Worked a bit more with Redux. I guess it stuck better to my head today.
