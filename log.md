@@ -91,6 +91,13 @@ I also started to take a look at a multiplayer game tutorial, guess I can actual
 
 ## Day 14: May 02, 2020
 
-**Today's Progress**: Worked on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing). Crated the CartDropdown component and added 'hide CartDropdown' functionality.
+**Today's Progress**: Worked on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing). Created the CartDropdown component and added 'hide CartDropdown' functionality.
 
 **Thoughts:**: Worked a bit more with Redux. I guess it stuck better to my head today.
+
+## Day 15: May 03, 2020
+
+**Today's Progress**: Worked on the [e-commerce project](https://github.com/gabcamilo/crwn-clothing). Created the "Add to cart" functionality and
+the CartItem component then added it to the CartDropdown.
+
+**Thoughts:**: Again, I worked more with Redux, getting a little more comfortable with it. I also learned how to make a "utils" file to implement functions with Redux in a more flexible and detached way.
